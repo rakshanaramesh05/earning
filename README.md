@@ -1,0 +1,2 @@
+# earning
+Earnings manipulator
